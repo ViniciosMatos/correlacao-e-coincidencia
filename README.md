@@ -1,5 +1,5 @@
 **Para que o Pandas será utilizado nesta atividade?**  
-_Teste_
+_Para poder visualizar e analisar os dados_
 
 **Quantas observações existem no dataset?**  
 _Existem 178 observações neste dataset_
