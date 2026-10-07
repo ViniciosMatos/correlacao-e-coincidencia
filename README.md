@@ -41,17 +41,16 @@ _r = 0,271 - uma correlação levemente positiva_
 **Força:** _Fraca_
 
 **O gráfico confirma a interpretação obtida pelo coeficiente de Pearson?**  
-_Sim, o gráfico mosta a relação dos dados, que apesar de estarem bem desorganizados, seguem um pequeno fluxo positivo   _
+_Sim, o gráfico mosta a relação dos dados, que apesar de estarem bem desorganizados, seguem um pequeno fluxo positivo_  
 
 **1.Existe alguma explicação plausível para essas duas variáveis estarem relacionadas?**  
-_A depender do tipo de colheita, maturação e local de cultivo da uva, pode ter. Em boas condições ela pode absorver mais minerais e açucar, que resulta em mais alcool posteriormente_
+_A depender do tipo de colheita, maturação e local de cultivo da uva, pode ter. Em boas condições ela pode absorver mais minerais e açucar, que resulta em mais alcool posteriormente_  
 
 **2.É possível afirmar apenas com este cálculo que uma variável causa a outra?**  
-_Não, apesar de o calculo apontar uma correlação positiva, o fato dela ter uma força fraca nos indica que um fator não está diretamente ligado ao crescimento do outro_
-
+_Não, apesar de o calculo apontar uma correlação positiva, o fato dela ter uma força fraca nos indica que um fator não está diretamente ligado ao crescimento do outro_  
 
 **3.Existe alguma terceira variável que poderia influenciar as duas?**  
-_Segundo nossas pesquisas, pode haver sim. Por exemplo, a uva, que dependendo do tipo utilizado na produção pode conter mais ou menos concentração de magnésio _
+_Segundo nossas pesquisas, pode haver sim. Por exemplo, a uva, que dependendo do tipo utilizado na produção pode conter mais ou menos concentração de magnésio_  
 
 
 ## Segunda teste
